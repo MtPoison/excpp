@@ -42,8 +42,8 @@ int main()
 	}*/
 
 	Airectangle rect;
-	rect.width = 50;
-	rect.heigth = 60;
+	rect.width = 30;
+	rect.heigth = 40;
 
 	std::cout << "Rectangle area: " << rect.caculAir() << std::endl;
 
